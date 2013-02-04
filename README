@@ -1,9 +1,9 @@
 
                              Hypermail
 
-                          Version:  2.1.x
+                          Version:  2.2.x
 
-This is a release of the 2.1.x version of hypermail.
+This is a release of the 2.2.x version of hypermail.
 
 Hypermail is a program that takes a file of mail messages in UNIX mailbox
 format and generates a set of cross-referenced HTML documents. 
@@ -115,12 +115,27 @@ Warning:
 Take the time to read the KNOWN_BUGS file so that you are aware of 
 things that might affect your use of hypermail.
 
+GIT Repository:
+===============
+
+Hypermail's code base has migrated from CVS to git and 
+now resides at sourceforge:
+
+  http://sourceforge.net/projects/hypermail/
+  http://sourceforge.net/scm/?type=git&group_id=18117&source=navbar
+
+You can also find a mirror of the repository at github:
+
+  https://github.com/hypermail-project/hypermail
+
 CVS Server:
 ===========
 
-Thanks to Ashley M. Kirchner <ashley@pcraft.com>, we have a CVS 
-server with the most recent sources at all times. Study the file
-README.CVS for details in how to use it.
+The hypermail CVS repository has been retired. Hypermail's code base
+now resides at sourceforge (see above).
+
+Thanks to Ashley M. Kirchner <ashley@pcraft.com> for having
+hosted and keep alive the CVS repository during the years.
 
 Getting Help:
 =============
